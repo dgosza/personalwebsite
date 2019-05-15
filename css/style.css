@@ -1,0 +1,12 @@
+body{background-color: #F5F5F5;}
+.top-left{font-family: 'Raleway', sans-serif;}
+.icons, .menu-middle{color:inherit;}
+.icons-links{margin: 10px 0 0 0;}
+.icons-links a{margin:5px;}
+.middle{height: 200px;}
+.img-middle{margin: 20px 0 0 0;}
+.menu-middle a{margin:15px; font-family:'Raleway', sans-serif; font-size:20px;}
+.middle-content{
+    font-family: 'Montserrat', sans-serif;
+
+}
